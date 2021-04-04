@@ -30,6 +30,4 @@ function cadastrarDespesa(){
 		valor.value
 		)
 
-	console.log(ano.value)
-
 }
